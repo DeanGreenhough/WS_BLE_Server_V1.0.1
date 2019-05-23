@@ -1,3 +1,7 @@
+/*
+Author: Dean Greenhough 2019
+*/
+
 //version control
 //v1.0.0
 //V1.0.1  added ina219, tx voltage, adjusted arrays

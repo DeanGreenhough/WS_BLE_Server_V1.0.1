@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{C5F80730-F44F-4478-BDAE-6634EFC2CA88}</ProjectGuid>
+    <ProjectGuid>{B18503E7-F52D-4ECF-80BD-B8931E34F6BD}</ProjectGuid>
     <RootNamespace>
     </RootNamespace>
     <ProjectName>WS_BLE_Server_V1.0.1</ProjectName>
